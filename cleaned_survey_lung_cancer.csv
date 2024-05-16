@@ -1,0 +1,310 @@
+Gender,Age,Smoking,Yellow_Fingers,Anxiety,Peer_Pressure,Chronic_Disease,Fatigue,Allergy,Wheezing,Alcohol_Consuming,Coughing,Shortness_of_Breath,Swallowing_Difficulty,Chest_Pain,Lung_Cancer
+Male,69,Smoker,No,High,Low,Yes,High,Yes,No,No,Frequent,No,No,No,Yes
+Male,74,Non-Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Not frequent,No,No,No,Yes
+Female,59,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Frequent,No,Yes,No,No
+Male,63,Non-Smoker,No,High,Low,Yes,Low,Yes,Yes,No,Not frequent,Yes,No,No,No
+Female,63,Smoker,No,Low,Low,Yes,Low,Yes,No,Yes,Frequent,No,Yes,Yes,No
+Female,75,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,52,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Female,51,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,68,Non-Smoker,Yes,High,Low,Yes,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,No
+Male,53,Non-Smoker,No,High,High,No,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,61,Non-Smoker,No,High,High,No,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,72,Smoker,Yes,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,60,Non-Smoker,Yes,Low,Low,Yes,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,58,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,69,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,No,No
+Female,48,Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,Yes,Yes
+Male,75,Non-Smoker,Yes,Low,Low,No,Low,No,No,No,Frequent,No,Yes,No,Yes
+Male,57,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,68,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Frequent,No,Yes,Yes,Yes
+Female,61,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,44,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,64,Smoker,No,High,High,Yes,Low,No,No,Yes,Frequent,Yes,No,Yes,Yes
+Female,21,Non-Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,60,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,72,Non-Smoker,No,High,High,No,Low,No,No,No,Frequent,Yes,No,No,Yes
+Male,65,Smoker,No,High,Low,Yes,High,Yes,No,No,Frequent,No,No,No,Yes
+Female,61,Non-Smoker,No,High,Low,Yes,High,No,Yes,No,Not frequent,No,No,No,Yes
+Male,69,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Frequent,No,Yes,No,No
+Female,53,Non-Smoker,No,High,Low,No,Low,Yes,No,No,Not frequent,No,No,No,Yes
+Male,55,Smoker,No,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,No
+Female,57,Non-Smoker,No,Low,Low,Yes,Low,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,62,Non-Smoker,Yes,High,Low,Yes,Low,No,No,No,Not frequent,No,No,No,Yes
+Male,56,Non-Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Not frequent,No,No,Yes,No
+Female,67,Non-Smoker,No,High,Low,No,Low,Yes,Yes,Yes,Not frequent,No,No,No,Yes
+Male,59,Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Not frequent,Yes,No,No,No
+Female,59,Non-Smoker,No,High,Low,No,Low,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Male,60,Smoker,No,Low,Low,No,Low,Yes,No,Yes,Frequent,No,Yes,No,Yes
+Female,56,Smoker,Yes,Low,Low,No,Low,Yes,No,Yes,Not frequent,No,No,Yes,No
+Male,56,Non-Smoker,Yes,Low,Low,No,Low,Yes,No,Yes,Not frequent,No,Yes,No,Yes
+Male,60,Non-Smoker,Yes,Low,Low,No,Low,No,No,No,Frequent,Yes,Yes,No,Yes
+Male,68,Non-Smoker,Yes,High,Low,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,63,Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,Yes,No,Yes,Yes
+Female,77,Smoker,No,High,High,No,High,Yes,No,No,Not frequent,Yes,Yes,Yes,Yes
+Male,52,Non-Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,No,Yes,No,Yes
+Female,70,Non-Smoker,No,Low,High,No,Low,Yes,Yes,No,Frequent,Yes,No,Yes,Yes
+Male,72,Non-Smoker,No,High,High,No,High,Yes,No,No,Frequent,No,No,No,Yes
+Male,62,Non-Smoker,No,Low,Low,No,Low,No,Yes,Yes,Frequent,No,No,No,Yes
+Female,64,Non-Smoker,No,Low,High,Yes,High,Yes,No,No,Frequent,Yes,No,No,Yes
+Female,70,Smoker,Yes,High,High,No,High,No,No,No,Not frequent,No,No,No,Yes
+Male,60,Smoker,Yes,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,Yes,Yes,No
+Female,56,Smoker,Yes,Low,High,No,High,No,No,No,Not frequent,Yes,Yes,No,Yes
+Male,63,Non-Smoker,No,High,Low,No,High,No,No,Yes,Not frequent,No,Yes,Yes,Yes
+Female,54,Non-Smoker,Yes,Low,High,Yes,High,No,No,No,Frequent,Yes,No,No,Yes
+Male,49,Non-Smoker,Yes,Low,High,No,High,No,No,No,Frequent,No,No,No,Yes
+Female,57,Smoker,No,Low,High,No,High,No,Yes,No,Frequent,Yes,Yes,Yes,Yes
+Male,52,Smoker,No,High,Low,No,Low,No,No,No,Frequent,Yes,No,Yes,Yes
+Female,63,Smoker,No,Low,High,Yes,High,Yes,Yes,Yes,Frequent,No,Yes,No,Yes
+Male,73,Smoker,Yes,Low,Low,No,Low,No,Yes,No,Frequent,No,No,No,Yes
+Male,47,Smoker,No,Low,High,No,High,Yes,No,Yes,Not frequent,No,No,No,Yes
+Male,69,Non-Smoker,No,High,High,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,70,Smoker,No,Low,High,No,High,No,No,No,Frequent,Yes,No,No,Yes
+Female,60,Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Frequent,Yes,Yes,Yes,No
+Male,70,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,68,Smoker,Yes,High,Low,No,Low,No,No,No,Not frequent,Yes,No,Yes,Yes
+Male,74,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,71,Non-Smoker,No,High,High,No,High,Yes,No,Yes,Frequent,Yes,No,No,Yes
+Female,56,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,No,Yes
+Male,66,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,76,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,No,Yes
+Female,78,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,68,Non-Smoker,No,High,High,Yes,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,66,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,67,Smoker,Yes,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,60,Non-Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Male,61,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,58,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,76,Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,56,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,67,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,73,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Frequent,No,No,No,Yes
+Female,58,Smoker,Yes,Low,Low,Yes,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,54,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,62,Non-Smoker,No,High,High,No,Low,No,No,No,Not frequent,Yes,No,No,Yes
+Female,81,Smoker,Yes,Low,High,No,Low,No,Yes,No,Frequent,No,Yes,Yes,Yes
+Male,56,Smoker,Yes,Low,Low,No,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,60,Smoker,No,High,Low,Yes,Low,Yes,No,No,Frequent,No,No,Yes,Yes
+Male,66,Smoker,No,High,Low,No,Low,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,62,Smoker,No,High,Low,Yes,High,Yes,No,Yes,Not frequent,Yes,No,No,Yes
+Female,62,Non-Smoker,No,High,Low,No,Low,No,Yes,No,Not frequent,Yes,Yes,Yes,Yes
+Female,55,Non-Smoker,Yes,Low,High,No,High,No,No,No,Not frequent,Yes,No,No,Yes
+Female,62,Smoker,Yes,Low,High,Yes,Low,Yes,No,No,Not frequent,Yes,No,No,Yes
+Female,71,Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Frequent,No,Yes,No,Yes
+Male,52,Non-Smoker,Yes,Low,Low,No,High,No,No,No,Not frequent,Yes,No,No,Yes
+Female,59,Smoker,No,High,High,No,Low,No,No,No,Frequent,No,No,Yes,Yes
+Male,48,Non-Smoker,Yes,Low,Low,No,High,No,Yes,No,Frequent,No,No,No,Yes
+Male,60,Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Not frequent,Yes,No,No,Yes
+Female,61,Non-Smoker,No,High,Low,Yes,Low,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,59,Non-Smoker,Yes,Low,High,Yes,Low,Yes,Yes,No,Frequent,No,Yes,Yes,Yes
+Male,64,Smoker,No,High,High,Yes,High,No,Yes,Yes,Frequent,Yes,No,Yes,Yes
+Male,56,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,58,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,81,Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,64,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,62,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,72,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Frequent,No,No,No,Yes
+Female,60,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Female,61,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,60,Non-Smoker,No,High,High,No,Low,No,No,No,Not frequent,Yes,No,No,Yes
+Female,49,Smoker,Yes,Low,High,No,Low,No,Yes,No,Frequent,No,Yes,Yes,Yes
+Male,53,Smoker,Yes,Low,Low,No,High,No,Yes,No,Not frequent,No,Yes,No,Yes
+Male,58,Smoker,No,High,Low,Yes,High,Yes,No,No,Frequent,No,No,No,Yes
+Male,61,Non-Smoker,No,High,Low,Yes,High,No,Yes,No,Not frequent,No,No,No,Yes
+Female,68,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Frequent,No,Yes,No,Yes
+Male,60,Non-Smoker,No,High,Low,Yes,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,72,Smoker,No,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,72,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,57,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Female,51,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,54,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Female,56,Smoker,No,High,High,Yes,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Male,77,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,64,Smoker,Yes,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,57,Non-Smoker,Yes,High,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Female,66,Non-Smoker,No,High,Low,No,High,No,No,No,Frequent,No,Yes,Yes,Yes
+Male,70,Non-Smoker,Yes,Low,Low,Yes,Low,No,Yes,No,Frequent,Yes,Yes,No,Yes
+Female,53,Smoker,No,High,High,No,High,No,Yes,Yes,Frequent,No,Yes,Yes,Yes
+Male,51,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Male,58,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,58,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Frequent,No,No,Yes,Yes
+Female,63,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,51,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,61,Smoker,No,High,High,Yes,Low,No,No,Yes,Frequent,Yes,No,Yes,Yes
+Female,61,Non-Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Male,76,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,71,Non-Smoker,No,High,Low,No,Low,No,No,No,Frequent,Yes,No,No,Yes
+Male,69,Smoker,Yes,High,Low,Yes,High,Yes,No,No,Frequent,No,No,Yes,Yes
+Female,56,Non-Smoker,No,High,Low,Yes,High,No,Yes,Yes,Not frequent,No,Yes,No,Yes
+Male,67,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Frequent,No,Yes,No,Yes
+Female,54,Non-Smoker,No,High,Low,No,Low,Yes,No,No,Not frequent,No,No,No,Yes
+Male,63,Smoker,No,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,47,Non-Smoker,No,Low,High,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,62,Non-Smoker,Yes,High,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Male,65,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,63,Non-Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,64,Smoker,No,High,High,Yes,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,65,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,51,Smoker,No,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,56,Smoker,Yes,Low,High,No,High,Yes,Yes,No,Frequent,No,No,Yes,Yes
+Male,70,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,58,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,No,Yes
+Male,67,Non-Smoker,Yes,High,Low,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,62,Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,Yes,No,Yes,Yes
+Female,74,Smoker,No,High,High,No,High,Yes,No,No,Not frequent,Yes,Yes,Yes,Yes
+Male,69,Non-Smoker,Yes,Low,High,Yes,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,No,No
+Female,64,Non-Smoker,No,Low,High,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,No
+Male,75,Non-Smoker,No,High,High,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,No,Yes
+Male,47,Non-Smoker,No,Low,Low,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,No,No
+Female,57,Non-Smoker,No,Low,High,Yes,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,No,No
+Female,56,Smoker,Yes,High,High,No,High,No,No,No,Not frequent,No,No,No,Yes
+Male,68,Smoker,Yes,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,Yes,Yes,No
+Female,55,Smoker,Yes,Low,High,No,High,No,No,No,Not frequent,Yes,Yes,No,Yes
+Male,62,Non-Smoker,No,High,Low,No,High,No,No,Yes,Not frequent,No,Yes,Yes,Yes
+Female,73,Non-Smoker,Yes,Low,High,Yes,High,No,No,No,Frequent,Yes,No,No,Yes
+Male,68,Non-Smoker,Yes,Low,High,No,High,No,No,No,Frequent,No,No,No,Yes
+Female,75,Smoker,No,Low,High,No,High,No,Yes,No,Frequent,Yes,Yes,Yes,Yes
+Male,63,Smoker,No,High,Low,No,Low,No,No,No,Frequent,Yes,No,Yes,Yes
+Female,61,Smoker,No,Low,High,Yes,High,Yes,Yes,Yes,Frequent,No,Yes,No,Yes
+Male,62,Smoker,Yes,Low,Low,No,Low,No,Yes,No,Frequent,No,No,No,Yes
+Male,44,Smoker,No,Low,High,No,High,Yes,No,Yes,Not frequent,No,No,No,Yes
+Male,56,Non-Smoker,No,High,High,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,54,Smoker,No,Low,High,No,High,No,No,No,Frequent,Yes,No,No,Yes
+Female,57,Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Frequent,Yes,Yes,Yes,No
+Male,56,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,69,Smoker,Yes,High,Low,No,Low,No,No,No,Not frequent,Yes,No,Yes,Yes
+Male,72,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,59,Non-Smoker,No,High,High,No,High,Yes,No,Yes,Frequent,Yes,No,No,Yes
+Female,70,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,No,Yes
+Male,64,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,61,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,No,Yes
+Female,72,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,63,Non-Smoker,No,High,High,Yes,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,74,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,71,Smoker,Yes,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,71,Non-Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,72,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,77,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,72,Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Male,55,Non-Smoker,Yes,Low,Low,Yes,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Male,65,Non-Smoker,No,High,High,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Female,67,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Female,69,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Female,55,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Female,51,Non-Smoker,No,High,High,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Female,64,Smoker,Yes,Low,High,No,Low,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,Yes
+Male,63,Smoker,Yes,Low,Low,No,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,69,Smoker,No,High,Low,Yes,Low,Yes,No,No,Frequent,No,No,Yes,Yes
+Male,64,Smoker,No,High,Low,No,Low,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,59,Smoker,No,High,Low,Yes,High,Yes,No,Yes,Not frequent,Yes,No,No,Yes
+Female,73,Non-Smoker,No,High,Low,No,Low,No,Yes,No,Not frequent,Yes,Yes,Yes,Yes
+Female,55,Non-Smoker,Yes,Low,High,No,High,No,No,No,Not frequent,Yes,No,No,Yes
+Female,63,Smoker,Yes,Low,High,Yes,Low,Yes,No,No,Not frequent,Yes,No,No,Yes
+Female,60,Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Frequent,No,Yes,No,Yes
+Male,74,Non-Smoker,Yes,Low,Low,No,High,No,No,No,Not frequent,Yes,No,No,Yes
+Female,65,Smoker,No,High,High,No,Low,No,No,No,Frequent,No,No,Yes,Yes
+Male,79,Non-Smoker,Yes,Low,Low,No,High,No,Yes,No,Frequent,No,No,No,Yes
+Male,62,Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Not frequent,Yes,No,No,Yes
+Female,71,Non-Smoker,No,High,Low,Yes,Low,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,63,Non-Smoker,Yes,Low,High,Yes,Low,Yes,Yes,Yes,Frequent,No,Yes,Yes,No
+Male,67,Smoker,No,High,High,Yes,High,No,Yes,Yes,Frequent,Yes,No,Yes,Yes
+Male,55,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,54,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,77,Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,58,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,64,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,61,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Frequent,No,No,No,Yes
+Female,62,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,67,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,56,Non-Smoker,No,High,High,No,Low,No,No,No,Not frequent,Yes,No,No,Yes
+Female,70,Smoker,Yes,Low,High,No,Low,No,Yes,No,Frequent,No,Yes,Yes,Yes
+Male,70,Smoker,Yes,Low,Low,No,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Female,57,Smoker,Yes,High,High,No,High,No,No,No,Not frequent,No,No,No,Yes
+Male,61,Smoker,Yes,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,Yes,Yes,No
+Female,77,Smoker,Yes,Low,High,No,High,No,No,No,Not frequent,Yes,Yes,No,Yes
+Male,63,Non-Smoker,No,High,Low,No,High,No,No,Yes,Not frequent,No,Yes,Yes,Yes
+Female,62,Non-Smoker,Yes,Low,High,Yes,High,No,No,No,Frequent,Yes,No,No,Yes
+Male,59,Non-Smoker,Yes,Low,High,No,High,No,No,No,Frequent,No,No,No,Yes
+Female,70,Smoker,No,Low,High,No,High,No,Yes,No,Frequent,Yes,Yes,Yes,Yes
+Male,71,Smoker,No,High,Low,No,Low,No,No,No,Frequent,Yes,No,Yes,Yes
+Female,56,Smoker,No,Low,High,Yes,High,Yes,Yes,Yes,Frequent,No,Yes,No,Yes
+Male,57,Smoker,Yes,Low,Low,No,Low,No,Yes,No,Frequent,No,No,No,Yes
+Male,78,Smoker,No,Low,High,No,High,Yes,No,Yes,Not frequent,No,No,No,Yes
+Male,64,Non-Smoker,No,High,High,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,62,Smoker,No,Low,High,No,High,No,No,No,Frequent,Yes,No,No,Yes
+Female,49,Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Frequent,Yes,Yes,Yes,Yes
+Male,77,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,Yes,Yes,Yes,Yes
+Female,64,Smoker,Yes,High,Low,No,Low,No,No,No,Not frequent,Yes,No,Yes,Yes
+Male,63,Smoker,No,Low,High,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,54,Non-Smoker,No,High,High,No,High,Yes,No,Yes,Frequent,Yes,No,No,Yes
+Female,38,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,No,Yes
+Female,75,Smoker,No,High,High,Yes,Low,No,No,Yes,Frequent,Yes,No,Yes,Yes
+Female,70,Non-Smoker,Yes,Low,High,No,Low,No,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Male,59,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,77,Non-Smoker,No,High,Low,No,Low,No,No,Yes,Not frequent,Yes,No,No,Yes
+Male,61,Smoker,Yes,High,Low,No,High,Yes,No,No,Frequent,No,No,Yes,Yes
+Female,64,Non-Smoker,No,High,Low,Yes,High,No,Yes,Yes,Not frequent,No,Yes,No,Yes
+Male,59,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Not frequent,No,Yes,No,No
+Female,71,Non-Smoker,No,High,Low,No,Low,Yes,No,No,Not frequent,No,No,No,Yes
+Male,67,Smoker,No,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,64,Non-Smoker,No,Low,High,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,68,Non-Smoker,Yes,High,Low,Yes,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,No
+Male,69,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,64,Non-Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,59,Smoker,No,High,High,No,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,67,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,74,Smoker,No,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,77,Smoker,Yes,Low,High,No,High,Yes,Yes,No,Frequent,No,No,Yes,Yes
+Male,60,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,64,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,No,Yes
+Male,70,Non-Smoker,Yes,High,Low,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,58,Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,Yes,No,Yes,Yes
+Female,59,Smoker,No,High,High,No,High,Yes,No,No,Not frequent,Yes,Yes,Yes,Yes
+Male,39,Non-Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,No,Yes,No,Yes
+Female,67,Smoker,No,Low,Low,Yes,Low,Yes,No,Yes,Frequent,No,Yes,Yes,No
+Female,71,Smoker,No,Low,Low,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,70,Non-Smoker,Yes,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Female,60,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,55,Non-Smoker,Yes,High,Low,Yes,High,Yes,Yes,Yes,Not frequent,Yes,Yes,Yes,No
+Male,60,Non-Smoker,No,High,High,No,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,55,Non-Smoker,No,High,High,No,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,55,Smoker,Yes,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,70,Non-Smoker,Yes,Low,Low,Yes,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,63,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,64,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,No,No
+Female,59,Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,Yes,Yes
+Male,56,Non-Smoker,Yes,Low,Low,No,Low,No,No,No,Frequent,No,Yes,No,Yes
+Male,64,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,62,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Frequent,No,Yes,Yes,Yes
+Female,87,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,77,Non-Smoker,No,High,High,No,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,59,Smoker,No,High,High,Yes,Low,No,No,Yes,Frequent,Yes,No,Yes,Yes
+Female,59,Non-Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Not frequent,No,Yes,Yes,No
+Male,55,Non-Smoker,Yes,Low,Low,Yes,High,No,Yes,Yes,Not frequent,No,Yes,No,No
+Male,46,Smoker,No,High,Low,Yes,Low,Yes,Yes,Yes,Not frequent,Yes,No,No,No
+Male,60,Smoker,No,High,Low,Yes,High,Yes,No,No,Frequent,No,No,No,Yes
+Male,58,Non-Smoker,No,High,High,No,Low,Yes,Yes,No,Not frequent,Yes,No,No,Yes
+Female,58,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Frequent,No,No,Yes,Yes
+Female,63,Smoker,Yes,Low,Low,No,High,Yes,Yes,Yes,Not frequent,No,Yes,Yes,No
+Female,51,Non-Smoker,No,High,High,Yes,High,Yes,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,61,Smoker,No,High,High,Yes,Low,No,No,Yes,Frequent,Yes,No,Yes,Yes
+Female,61,Non-Smoker,Yes,Low,Low,No,High,No,Yes,Yes,Not frequent,No,Yes,Yes,Yes
+Male,76,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,71,Non-Smoker,No,High,Low,No,Low,No,No,No,Frequent,Yes,No,No,Yes
+Male,69,Smoker,Yes,High,Low,Yes,High,Yes,No,No,Frequent,No,No,Yes,Yes
+Female,56,Non-Smoker,No,High,Low,Yes,High,No,Yes,Yes,Not frequent,No,Yes,No,Yes
+Male,67,Smoker,Yes,Low,High,Yes,High,Yes,No,Yes,Frequent,No,Yes,No,Yes
+Female,54,Non-Smoker,No,High,Low,No,Low,Yes,No,No,Not frequent,No,No,No,Yes
+Male,63,Smoker,No,Low,Low,Yes,High,Yes,No,No,Frequent,No,Yes,Yes,Yes
+Female,47,Non-Smoker,No,Low,High,No,High,No,No,Yes,Frequent,No,Yes,Yes,Yes
+Male,62,Non-Smoker,Yes,High,Low,Yes,High,Yes,No,No,Frequent,No,Yes,No,Yes
+Male,65,Non-Smoker,No,High,High,Yes,High,No,Yes,Yes,Not frequent,No,No,Yes,Yes
+Female,63,Non-Smoker,No,High,High,No,High,No,No,Yes,Frequent,No,No,No,Yes
+Male,64,Smoker,No,High,High,Yes,Low,No,Yes,No,Not frequent,Yes,No,No,Yes
+Female,65,Non-Smoker,No,High,High,Yes,High,Yes,No,Yes,Frequent,No,No,Yes,Yes
+Male,51,Smoker,No,Low,Low,No,High,No,No,No,Frequent,No,Yes,No,Yes
+Female,56,Smoker,Yes,Low,High,No,High,Yes,Yes,No,Frequent,No,No,Yes,Yes
+Male,70,Non-Smoker,Yes,Low,Low,Yes,High,No,No,No,Frequent,No,Yes,No,Yes
+Male,58,Non-Smoker,Yes,Low,Low,Yes,Low,No,No,No,Frequent,Yes,Yes,No,Yes
+Male,67,Non-Smoker,Yes,High,Low,Yes,High,No,Yes,No,Frequent,No,Yes,No,Yes
+Male,62,Smoker,Yes,Low,High,Yes,High,No,No,No,Not frequent,Yes,No,Yes,Yes
